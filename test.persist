@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<persistence>
+    <windows>
+        <event-sheet name="Layout 1 events" active="no" />
+        <event-sheet name="Layout 2 events" active="yes" />
+    </windows>
+</persistence>
